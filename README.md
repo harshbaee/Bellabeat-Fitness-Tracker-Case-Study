@@ -24,18 +24,24 @@ The analysis covers activity levels, sleep behaviour, calorie burn, and weekly t
 ## 🔍 Key Findings
  
 ### Act 01 — Activity & Steps
+<img width="1742" height="880" alt="image" src="https://github.com/user-attachments/assets/e3b71902-2edc-4556-b8d4-f108846092b9" />
+
 - Average daily steps: **7,377** — 26% below the CDC's 10,000-step target
 - Only **21% of users** consistently hit 10K steps
 - Users are **sedentary 81% of the time**; very active time is just 1.6%
 - **Tuesday** is the most active day; Sunday shows the biggest drop-off
  
 ### Act 02 — Sleep & Calories
+<img width="1233" height="811" alt="image" src="https://github.com/user-attachments/assets/fb88a8f9-6438-4754-b6e1-31b4ffc581c1" />
+
 - Average sleep per night: **6.6 hours** (below the recommended 7–9 hrs)
 - Most restful night: **Sunday**
 - Average calories burned: ~**2,295/day** — consistent across the dataset
 - Strong positive correlation between **active minutes → calories burned**
  
 ### Act 03 — Trends Over Time
+<img width="1221" height="836" alt="image" src="https://github.com/user-attachments/assets/6df0b576-bb25-466a-8dcb-0080ffc1d829" />
+
 - Steps peaked in **Week 17** at **1.78 million total steps**
 - A sharp drop-off occurred in **Week 19**
 - Heatmap analysis revealed **huge variance between individual users** — underlining the need for personalisation
